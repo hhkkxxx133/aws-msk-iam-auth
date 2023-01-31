@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: software.amazon.awssdk:auth:2.17.192">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/auth/2.17.192/aacca87e00fa34f5419fa1e1cf706d09db254301/auth-2.17.192.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/software.amazon.awssdk/auth/2.17.192/592cff49508ab44176ba81ba86171710578c1b83/auth-2.17.192-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
